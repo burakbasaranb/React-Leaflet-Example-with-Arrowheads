@@ -23,7 +23,7 @@ Please note that you need to provide your own API keys for Yandex and Google map
 
 Feel free to explore the provided code, modify it, and integrate it into your own projects. If you encounter any issues or have further questions, don't hesitate to reach out for assistance.
 
-Happy mapping!
+## Install
 
 #### STEP 1: Install node_modules
 ```bash
@@ -39,3 +39,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+Happy mapping!
