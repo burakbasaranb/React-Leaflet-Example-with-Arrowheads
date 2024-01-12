@@ -121,13 +121,13 @@ const MyMap = () => {
 
         <Polyline smoothFactor={5} color="darkred" positions={Istanbul_Euro} arrowheads={{ size: '5px' }}>
         <Popup>
-          <code>{`<Polyline smoothFactor={5} color="darkred" positions={serbianBorder} arrowheads={{ size: '5px' }}>`}</code>
+          <code>{`<Polyline smoothFactor={5} color="darkred" positions={Istanbul_Euro} arrowheads={{ size: '5px' }}>`}</code>
         </Popup>
       </Polyline>
 
       <Polyline smoothFactor={5} color="blue" positions={Istanbul_Anatolia} arrowheads={{ size: '5px' }}>
         <Popup>
-          <code>{`<Polyline smoothFactor={5} color="darkred" positions={serbianBorder} arrowheads={{ size: '5px' }}>`}</code>
+          <code>{`<Polyline smoothFactor={5} color="darkred" positions={Istanbul_Anatolia} arrowheads={{ size: '5px' }}>`}</code>
         </Popup>
       </Polyline>
 
